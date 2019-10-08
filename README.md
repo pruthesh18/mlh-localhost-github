@@ -49,18 +49,18 @@ Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://devel
 The App reads its locations from the `locations.txt` file located in the root folder. It will consider each line a different location, so the file should look something like this:
 
 ```txt
-New York, USA
-Brazil
-Japan
+Ahmedabad,India
+India
+Ankleshwar
 ```
 
-To add a new location, simply append a new line to the locations.txt file
 
 There is also a `locations.txt.example` file that can be used to test the app. Copy its content to locations.txt and restart the app.
 
 ## Running the application:
 
 To run this application locally, you'll need to:
+To add a new location, simply append a new line to the locations.txt file
 
 * Clone this repository:
 ```
