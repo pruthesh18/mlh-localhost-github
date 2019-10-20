@@ -60,7 +60,7 @@ There is also a `locations.txt.example` file that can be used to test the app. C
 
 ## Running the application:
 
-To run this application locally, you'll need to:
+To run this application locally, you'll need to: Email id,phone no etc...
 
 * Clone this repository:
 ```
